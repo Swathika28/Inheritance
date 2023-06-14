@@ -1,4 +1,5 @@
-# <p align="center">Inheritance</p>
+# EX-8 Inheritance
+## Date:
 
 ## Aim:
 To write a C# program to print some messages using hierarchical inheritance.
